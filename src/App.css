@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #FFFFFF;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  font-family: "Fira Mono for Powerline", "sans-serif";
+}
+
+.Small-font {
+  font-size: calc(6px + 1vmin);
+}
+
+.App-link {
+  color: #09d3ac;
+}
