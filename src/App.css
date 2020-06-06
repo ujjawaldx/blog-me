@@ -2,26 +2,46 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
 .App-header {
   background-color: #FFFFFF;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: black;
-  font-family: "Fira Mono for Powerline", "sans-serif";
+  font-family: "Fira Mono for Powerline", source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.Social-Links {
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: black;
 }
 
 .Small-font {
   font-size: calc(6px + 1vmin);
 }
 
-.App-link {
-  color: #09d3ac;
+.twitter-image {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  padding: 10px;
+}
+
+.linkedin-image {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  padding: 10px;
+}
+
+.medium-image {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  padding: 10px;
 }
