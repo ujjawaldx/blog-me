@@ -1,13 +1,12 @@
 {
+  "homepage": "http://ujjawaldx.github.io/blog-me",
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://ujjawaldx.github.io/myapp",
   "private": true,
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0",
-    "gh-pages": "^2.1.1"
+    "react-scripts": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,6 +32,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
